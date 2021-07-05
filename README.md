@@ -3,6 +3,9 @@
 <h3 align="center">A learning web developer soon on the rise</h3>
 
 - 🔭 I’m currently working on [A password generator](https://github.com/browneli003/Pineapple-Password)
+- <p>
+  Tired of trying to think of a password? Well look no further!
+  </p>
 
 - 📫 How to reach me **brownelijah143@gmail.com**
 
